@@ -1,0 +1,73 @@
+ Volume in drive P has no label.
+
+ Directory of P:\public_html\CS1371\Spring_2017\text_files
+
+02/20/2017  11:50 AM    <DIR>          .
+02/16/2017  01:14 PM    <DIR>          ..
+06/21/2013  01:18 PM           622,782 dictionary.txt
+02/06/2015  03:05 PM            21,021 Ancient_Mariner.txt
+02/22/2016  05:06 PM             3,003 chars_per_syllable.m
+07/07/2013  10:17 AM         2,602,782 Count_of_Monte_Cristo.txt
+02/14/2014  09:47 AM             8,119 declaration.txt
+10/04/2016  02:26 PM           181,997 Dickens_A_Christmas_Carol.txt
+10/04/2016  02:26 PM           806,878 Dickens_A_Tale_of_Two_Cities.txt
+10/04/2016  02:29 PM         2,001,189 Dickens_Bleak_House.txt
+10/04/2016  02:28 PM         2,033,142 Dickens_David_Copperfield.txt
+10/04/2016  02:34 PM         2,093,828 Dickens_Dombey_and_Son.txt
+10/04/2016  02:27 PM         1,055,026 Dickens_Great_Expectations.txt
+10/04/2016  02:28 PM           626,055 Dickens_Hard_Times.txt
+10/04/2016  02:31 PM         1,973,354 Dickens_Little_Dorrit.txt
+10/04/2016  02:34 PM         1,982,762 Dickens_Martin_Chuzzlewit.txt
+10/04/2016  02:32 PM         1,951,261 Dickens_Nicholas_Nickleby.txt
+10/04/2016  02:27 PM           936,252 Dickens_Oliver_Twist.txt
+10/04/2016  02:30 PM         1,922,351 Dickens_Our_Mutual_Friend.txt
+10/04/2016  02:33 PM         1,282,819 Dickens_The_Old_Curiosity_Shop.txt
+10/04/2016  02:30 PM         1,855,144 Dickens_The_Pickwick_Papers.txt
+02/20/2017  09:57 AM             5,198 dir.txt
+10/04/2013  02:08 PM         1,194,012 Federalist Papers.txt
+10/05/2016  09:17 AM               394 find_dlms.m
+02/20/2017  11:50 AM                98 raw_dir.txt
+02/17/2015  12:04 PM             1,494 gettysburg.txt
+02/13/2013  09:13 AM             3,714 green_eggs_and_ham
+12/10/2010  06:57 PM         4,326,952 King_James_Bible.txt
+02/17/2017  03:52 PM               601 mercy.txt
+11/05/2015  10:37 AM           138,101 Shakespeare_All_s_Well_That_Ends_Well__Entire_Play__.txt
+11/05/2015  10:49 AM           160,890 Shakespeare_Antony_and_Cleopatra__Entire_Play__.txt
+11/05/2015  10:37 AM           127,468 Shakespeare_As_You_Like_It__Entire_Play__.txt
+11/05/2015  10:37 AM            91,555 Shakespeare_Comedy_of_Errors__Entire_Play__.txt
+11/05/2015  10:37 AM           171,023 Shakespeare_Coriolanus__Entire_Play__.txt
+11/05/2015  10:37 AM           166,977 Shakespeare_Cymbeline__Entire_Play__.txt
+11/05/2015  10:37 AM           186,018 Shakespeare_Hamlet__Entire_Play__.txt
+11/05/2015  10:38 AM           146,893 Shakespeare_Henry_IV__part_1__Entire_Play__.txt
+11/05/2015  10:38 AM           159,232 Shakespeare_Henry_IV__part_2__Entire_Play__.txt
+11/05/2015  10:38 AM           156,351 Shakespeare_Henry_V__Entire_Play__.txt
+11/05/2015  10:38 AM           134,074 Shakespeare_Henry_VI__part_1__Entire_Play__.txt
+11/05/2015  10:38 AM           153,717 Shakespeare_Henry_VI__part_2__Entire_Play__.txt
+11/05/2015  10:38 AM           149,264 Shakespeare_Henry_VI__part_3__Entire_Play__.txt
+11/05/2015  10:38 AM           149,546 Shakespeare_Henry_VIII__Entire_Play__.txt
+11/05/2015  10:38 AM           119,883 Shakespeare_Julius_Caesar__Entire_Play__.txt
+11/05/2015  10:38 AM           123,711 Shakespeare_King_John__Entire_Play__.txt
+11/05/2015  10:38 AM           160,529 Shakespeare_King_Lear__Entire_Play__.txt
+11/05/2015  10:38 AM           134,124 Shakespeare_Love_s_Labour_s_Lost__Entire_Play__.txt
+11/05/2015  10:39 AM           106,555 Shakespeare_Macbeth__Entire_Play__.txt
+11/05/2015  10:39 AM           133,259 Shakespeare_Measure_for_Measure__Entire_Play__.txt
+11/05/2015  10:39 AM           123,997 Shakespeare_Merchant_of_Venice__Entire_Play__.txt
+11/05/2015  10:39 AM           134,541 Shakespeare_Merry_Wives_of_Windsor__Entire_Play__.txt
+11/05/2015  10:39 AM            97,694 Shakespeare_Midsummer_Night_s_Dream__Entire_Play__.txt
+11/05/2015  10:39 AM           126,877 Shakespeare_Much_Ado_About_Nothing__Entire_Play__.txt
+11/05/2015  10:39 AM           160,657 Shakespeare_Othello__Entire_Play__.txt
+11/05/2015  10:39 AM           112,354 Shakespeare_Pericles__Entire_Play__.txt
+11/05/2015  10:39 AM           135,663 Shakespeare_Richard_II__Entire_Play__.txt
+11/05/2015  10:39 AM           182,219 Shakespeare_Richard_III__Entire_Play__.txt
+11/05/2015  10:39 AM           146,125 Shakespeare_Romeo_and_Juliet__Entire_Play__.txt
+11/05/2015  10:40 AM           126,856 Shakespeare_Taming_of_the_Shrew__Entire_Play__.txt
+11/05/2015  10:40 AM           101,361 Shakespeare_The_Tempest__Entire_Play__.txt
+11/05/2015  10:40 AM           114,903 Shakespeare_Timon_of_Athens__Entire_Play__.txt
+11/05/2015  10:40 AM           125,002 Shakespeare_Titus_Andronicus__Entire_Play__.txt
+11/05/2015  10:40 AM           162,504 Shakespeare_Troiles_and_Cressida__Entire_Play__.txt
+11/05/2015  10:40 AM           119,881 Shakespeare_Twelfth_Night__Entire_Play__.txt
+11/05/2015  10:40 AM           104,718 Shakespeare_Two_Gentlemen_of_Verona__Entire_Play__.txt
+11/05/2015  10:40 AM           147,844 Shakespeare_Winter_s_Tale__Entire_Play__.txt
+11/05/2015  10:51 AM            51,339 US Constitution.txt
+              65 File(s)     34,635,933 bytes
+               2 Dir(s)   4,096,131,072 bytes free
